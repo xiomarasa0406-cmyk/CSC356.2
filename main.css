@@ -1,0 +1,59 @@
+
+/* Main design for La Luz */
+body {
+    background-color: #4a0030;
+    color: #ffc6af;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    margin: 30px;
+}
+
+/* Main page heading */
+h1 {
+    color: #ffc6af;
+    font-size: 38px;
+    text-align: center;
+}
+
+/* Smaller headings */
+h2, h3 {
+    color: #8D6AAF;
+    font-size: 26px;
+    text-align: center;
+}
+
+/* Paragraphs */
+p {
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Navigation links */
+nav a {
+    color: #527C9E;
+    font-size: 17px;
+    margin-right: 20px;
+
+}
+
+/* Pilot application button */
+.apply-btn {
+    display: inline-block;
+    background-color: #A67CCB;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+
+ button {
+    background-color: #A67CCB;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-size: 16px;
+    cursor: pointer;
+ }
