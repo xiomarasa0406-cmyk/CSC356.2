@@ -9,6 +9,14 @@
 
 </head>
 <body>
+
+<!-- Navigation menu -->
+<nav>
+    <a href="mar.php">Home</a>
+    <a href="application.php">Pilot Application</a>
+    <a href="mar_countdown.php">Mars Countdown</a>
+</nav>
+
     <h1>Welcome to the La Luz </h1>
     <h2> A new light on mars  </h2>
     <hr>
